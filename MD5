@@ -1,4 +1,4 @@
-13a9fdbc1261f2c150ce3ebd7c876e6c *DESCRIPTION
+82eeb269ec2f87d723f62a8ad1384c1e *DESCRIPTION
 52375f09ddf911d04a21f1d59b7deb8f *NAMESPACE
 c6e2fac4bd4c53eee794461c93091017 *R/as.bugs.array.R
 3ed2ae0ca3c719074edd579aac380f2e *R/as.mcmc.list.bugs.R
@@ -25,12 +25,12 @@ ed28ea0911e1e52e9640c167cf695c03 *R/read.bugs.R
 3e78027ad44512a925cf4dac393bcd68 *R/wineutils.R
 efd33b6a49c441f37e25ba137cf1dc31 *R/write.datafile.R
 199b4f5183a410222bf66fd147269a09 *R/write.model.R
-16a7619d9751dccce769fcabfedf157c *build/vignette.rds
-96d89d6fdbbf5f1574e80da5214e169f *data/schools.txt
+9252a6d378d2f7e3ffb925ed3bbb3970 *build/vignette.rds
+b0cd2949a4ec048348ff907b893d7a4f *data/schools.txt.gz
 331273eda881d763bc5db965f5ad90d7 *inst/CITATION
 4a690552c26aada0cfc21a1fa84def0e *inst/NEWS
 be99223aacb236b1a5575ee6f30d127a *inst/doc/R2OpenBUGS.Rnw
-6ed628254c7545119339321c84732617 *inst/doc/R2OpenBUGS.pdf
+a3988059fe9a7cd2ebae3046b9d2c54f *inst/doc/R2OpenBUGS.pdf
 d0fcdd40339f64611177e97cdfb04ca4 *inst/model/schools.txt
 03f4c76b1f813cdbb6885dc235af1a05 *inst/validateInstallOpenBUGS/Airdata.txt
 2a9fbe44ff873d11e5d4db415794844d *inst/validateInstallOpenBUGS/Airinits.txt
