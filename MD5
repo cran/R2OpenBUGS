@@ -1,4 +1,4 @@
-233f57ef2f039b1259c2da0820cdce53 *DESCRIPTION
+5f880bc600abc39299d4b024b43f6e79 *DESCRIPTION
 52375f09ddf911d04a21f1d59b7deb8f *NAMESPACE
 c6e2fac4bd4c53eee794461c93091017 *R/as.bugs.array.R
 3ed2ae0ca3c719074edd579aac380f2e *R/as.mcmc.list.bugs.R
@@ -13,7 +13,7 @@ a8ab15591f45fb10a68de7b03d144db3 *R/bugs.plot.summary.R
 df4ac112970b7e24ab28ce96834bd7ab *R/bugs.script.R
 122f5f8c4d1d5496a6823b974dad2c39 *R/bugs.sims.R
 0712634e4f64e8b35b1644d151735302 *R/bugs.update.settings.R
-3466f37a8d2ede089797e146dc948a46 *R/conv.par.R
+958f071a2c58e2e5a6cbd472facc6c42 *R/conv.par.R
 f87194ca8e1cbff076629146c95b7972 *R/decode.parameter.name.R
 4ed9cf5f7ebd9d52e003dd006d8ff639 *R/findOpenBUGS.R
 0b665be957cd7a98b423acb884695a9d *R/formatdata.R
@@ -25,12 +25,12 @@ ed28ea0911e1e52e9640c167cf695c03 *R/read.bugs.R
 3e78027ad44512a925cf4dac393bcd68 *R/wineutils.R
 efd33b6a49c441f37e25ba137cf1dc31 *R/write.datafile.R
 199b4f5183a410222bf66fd147269a09 *R/write.model.R
-4ec972d78cae512aa22dff0710b975f0 *build/vignette.rds
+2eb40b49986874f4d49d052631089589 *build/vignette.rds
 463f6d4d3d88abd5ad3f17034178afe0 *data/schools.txt.gz
 ec338129ac6c7a37cf3506f691d8d61c *inst/CITATION
 4a690552c26aada0cfc21a1fa84def0e *inst/NEWS
-be99223aacb236b1a5575ee6f30d127a *inst/doc/R2OpenBUGS.Rnw
-66a98252cf328040140789e7a2d9aa00 *inst/doc/R2OpenBUGS.pdf
+7ff02e9f4dd5288fafa998b2a3141360 *inst/doc/R2OpenBUGS.Rnw
+0013d30592210461de00ce35b1887bfd *inst/doc/R2OpenBUGS.pdf
 d0fcdd40339f64611177e97cdfb04ca4 *inst/model/schools.txt
 03f4c76b1f813cdbb6885dc235af1a05 *inst/validateInstallOpenBUGS/Airdata.txt
 2a9fbe44ff873d11e5d4db415794844d *inst/validateInstallOpenBUGS/Airinits.txt
@@ -101,13 +101,13 @@ cf2b71f734e9b2349bf57222488c8aa8 *man/schools.Rd
 132518071bda405cf9b6d0a556952407 *man/validateInstallOpenBUGS.Rd
 104b6f738ab0eb2cd4c03557c29095cf *man/write.datafile.Rd
 5a18e5bd0622ed684aeb2415485ad2c7 *man/write.model.Rd
-be99223aacb236b1a5575ee6f30d127a *vignettes/R2OpenBUGS.Rnw
+7ff02e9f4dd5288fafa998b2a3141360 *vignettes/R2OpenBUGS.Rnw
 3e028eeff9a3f50fed9739e8fdc093f0 *vignettes/RdRW.sty
 9a22dbf5a0c7104c43e0cbf622e46a64 *vignettes/Z.cls
 d3ba8d517629f487a8dbd5d3c0c49fe4 *vignettes/benzolsw.pdf
-dbb574535da36e850defd14b14ca9df9 *vignettes/bugs.tex
+1638d2f08e5b32a0a6232c52669722c8 *vignettes/bugs.tex
 cda84faac26edb5e8b44a5172603e475 *vignettes/countssw.pdf
 34bf7ee801756c9fd79996029e167250 *vignettes/expectedsw.pdf
-e4b16c852e794fda603ed1245ad844e6 *vignettes/literatur.bib
+8c2a9e519fb823c3aeb941eb35acede0 *vignettes/literatur.bib
 142b68c8db8cb719a9dafe7caa478474 *vignettes/literatur.bst
 819c9959f9c1c6d82223b45283c70ae0 *vignettes/plot.pdf

@@ -24,7 +24,7 @@ function (x, n.chains, Rupper.keep = TRUE) {
   W <- mean(s2)
   quantiles <- quantile (as.vector(x), probs=c(.025,.25,.5,.75,.975))
 
-  if ((W > 1.e-8) && (n.chains > 1)) {            # non-degenerate case
+  if (!is.na(W) && (W > 1.e-8) && (n.chains > 1)) {            # non-degenerate case
   
   B <- n*var(xdot)
   varW <- var(s2)/m

@@ -47,7 +47,7 @@ Metropolis algorithm \citep{Metropolis;Rosenbluth;Rosenbluth;Teller;Teller:1953}
 to generate a Markov chain by sampling from full conditional
 distributions.
 The \OpenBUGS{} software is available for free
-at \url{http://www.OpenBUGS.info}.
+at \url{https://www.mrc-bsu.cam.ac.uk/software/bugs-project}.
 An introduction to MCMC methods is given in \cite{Gilks;Richardson;Spiegelhalter:1996}.
 
 Using \OpenBUGS{}, the user must specify the model to run, and to load data and initial values for a specified
@@ -66,11 +66,11 @@ because it is much more convenient to use some \R{} functions (possibly within a
 rather than using ``copy \& paste'' to update data in \OpenBUGS{} each time; however difficulties have been encountered in this area because both \R{} and \OpenBUGS{} can lock up RAM in the Windows operating system.
 
 \R{} is a ``language for data analysis and graphics'' and an open source and
-freely available statistical software package implementing that language, see \url{http://www.R-project.org/}.
+freely available statistical software package implementing that language, see \url{https://www.R-project.org/}.
 Historically, \R{} is an implementation of the award-winning \proglang{S}
 language and system \citep{becker:1984r,becker:1988r,chambers:1992,chambers:1998}.
 \R{} and \RO{} are available from \emph{CRAN} (Comprehensive \R{} Archive Network),
-i.e., \url{http://CRAN.R-Project.org} or one of its mirrors.
+i.e., \url{https://CRAN.R-Project.org} or one of its mirrors.
 \RO{} could be ported to the commercial \proglang{S} implementation
 \textsc{S-Plus}.  Minor adaptions would be needed since \textsc{S-Plus}
 lacks some of \R{}'s functions and capabilities.
